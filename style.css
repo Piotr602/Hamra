@@ -1,0 +1,26 @@
+body {
+    background: cyan;
+    margin: 0 20%;
+}
+
+.top {
+    background: yellowgreen;
+    border: 3px solid gray;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.menu, .footer {
+    background: gray;
+    border: 3px solid gray;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    color: yellow;
+    font-size: 18px;
+    font-weight: bold;
+}
